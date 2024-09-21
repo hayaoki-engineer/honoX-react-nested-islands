@@ -2,12 +2,7 @@
 
 - HonoXでReactを使えるようにする
 
-1. pacage.json に以下を入れる
+# 参考
 
-```
-"react": "^18.3.1",
-"react-dom": "^18.3.1"
-
-"@types/react": "^18.3.8",
-"@types/react-dom": "^18.3.0",
-```
+- [](https://github.com/yusukebe/honox-react-nested-islands/tree/main)
+- [](https://github.com/sakupi01/saku-apps/blob/main/articles/_dev/honox-with-react.md)
