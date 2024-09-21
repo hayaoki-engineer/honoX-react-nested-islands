@@ -1,6 +1,7 @@
 # 目的
 
-- HonoXでReactを使えるようにする
+- HonoXに `@hono/react-renderer` を適用して、ReactコンポーネントのSSRを実現する
+- islands でReactを使えるようにする
 
 # 参考
 
